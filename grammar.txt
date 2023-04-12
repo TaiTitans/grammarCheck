@@ -1,0 +1,16 @@
+S->aS
+---
+S->T
+S->bSb
+T->aT
+---
+S->aS
+S->aA
+A->bA
+A->b
+---
+S->aSb
+S->ab
+---
+S->0A
+S->10A
