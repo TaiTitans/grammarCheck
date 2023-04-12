@@ -1,7 +1,7 @@
 #                                                                 ⚜️Grammar Check⚜️
 ---
 -> REGULAR GRAMMAR
--> Kiểm Tra Văn Phạm Chính Quy ✅
+- Kiểm Tra Văn Phạm Chính Quy ✅
 - [Thế nào là văn phạm chính quy](https://voer.edu.vn/c/van-pham-chinh-quy-rg-regular-grammar/db07e804/c6bc5cf4)
 - Ngôn ngữ sử dụng : Python
 - Framework : 
